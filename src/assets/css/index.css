@@ -1,0 +1,38 @@
+.ngn-balance , .usd-balance {height:200px;padding-top:10pt;padding-left:15pt}
+.currency {margin:0pt;font-size:20pt;font-weight:bold}
+.currency-balance {margin:0pt;font-size:18pt;font-weight:bold}
+.fund-button{font-size:8pt;}
+.main-b{height:auto;border-top-left-radius:30px;border-top-right-radius:30px;margin-top:-30px;padding-top:50px;padding-bottom:10px;}
+.icons-n{font-size:30pt;margin-bottom:0pt;}
+.icons-name{font-size:10pt;margin-top:0pt;}
+.img-crypto{width:38px;margin-right:5pt;}
+.crypto-name{font-size:10pt;}
+.crypto-panel {margin-bottom:20pt}
+.coin-price {font-size:8pt;}
+.coin-balance{font-size:10pt;}
+.coin-balance-usd{font-size:8pt;}
+.main-c{margin-bottom:50pt;margin-top:15pt;}
+.personal-panel{height:60px;margin-top:10pt;}
+.ngn-balance {height:200px;padding-top:10pt;padding-left:15pt;border-top-left-radius:20px;}
+.usd-balance {height:200px;padding-top:10pt;padding-left:15pt;border-top-right-radius:20px;}
+.profile-img {width:38px;border-radius:500px;margin-right:5pt;margin-top:2pt;}
+.profile-img-container{float:left;}
+.profile-details{float:left;}
+.profile-details p{margin:0;padding:0;line-height:1.2;}
+.cr-namepanel p{margin:0;padding:0;line-height:1.5;}
+.coin-panel-balances p{margin:0;padding:0;line-height:1.5;}
+
+.make-circle{height:20px;border-bottom-left-radius:500px;border-bottom-right-radius:500px;}
+.make-circle-second{height:20px;border-bottom-left-radius:500px;border-bottom-right-radius:500px;margin-bottom:-20px;}
+.make-circle-menu {height:30px;border-bottom-left-radius:500px;border-bottom-right-radius:500px;margin-bottom:25px;}
+.mv-top{z-index:500;position:relative;}
+.bill-mv{z-index:500;position:relative;}
+.mv-menu{z-index:600;position:fixed;bottom:0;left:0;right:0;}
+
+
+/*******Bottom menu************/
+.base-menu {position:fixed;bottom:0;left:0;right:0;height:50px;z-index:500;}
+.icons-first p {margin:0;padding:0;line-height:1.3;font-size:8pt;font-weight:bold;color:white;}
+.icons-first i {font-size:13pt;font-weight:bold;cursor:pointer;color:white;}
+.icons-second p {margin:0;padding:0;line-height:1.3;font-size:8pt;font-weight:bold;color:black;}
+.icons-second i {font-size:13pt;font-weight:bold;cursor:pointer;color:black;}
